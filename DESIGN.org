@@ -1,0 +1,15 @@
+* Overview
+In the midst of the Traction Edge prelude you play as a Victorian Policeman fighting against the hordes of machinma
+
+* Brainstorm
+- Start off with standard roguelike fare
+- Single character
+- Skill based, no classes
+
+* Technology
+- Python
+- libtcod
+- PySDL2
+- SDL2
+
+
